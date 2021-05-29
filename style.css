@@ -1,0 +1,39 @@
+h1{
+    background-color: #fff200;
+    text-align: center;
+}
+.grid{
+    background-color:#ffff00;
+
+    justify-content: space-between;
+    flex-direction: row;
+    border-radius: 50px ;
+    border-style: dotted;
+}
+.origami{
+    background-color:#ff9900;
+   
+    flex-direction: row-reverse;
+    padding-left: 150;
+    margin-top: 25;
+    width:310
+}
+.item{
+    position:relative
+}
+.item p{
+    position:absolute
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
